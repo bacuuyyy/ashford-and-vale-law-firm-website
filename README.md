@@ -20,7 +20,7 @@ Ashford & Vale is a premium web platform designed for an elite, global corporate
 * **Package Manager:** Bun
 * **Deployment:** Netlify
   
-* * 🌍 Live Demo
+* 🌍 Live Demo
 View the live site here
 https://kairos-sneakers.netlify.app/
 
