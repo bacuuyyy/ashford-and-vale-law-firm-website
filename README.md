@@ -22,7 +22,7 @@ Ashford & Vale is a premium web platform designed for an elite, global corporate
   
 * 🌍 Live Demo
 View the live site here
-https://kairos-sneakers.netlify.app/
+[https://kairos-sneakers.netlify.app/](https://ashford-and-vale.netlify.app/)
 
 Developed with precision for the modern legal industry.
 
